@@ -18,8 +18,6 @@ This repository documents the investigation process, explains the reasoning behi
   * Privilege Escalation & Persistence
   * OAuth Application Abuse
 
-**Lab:** https://tryhackme.com/room/entraidmonitoring
-
 ---
 
 # Repository Structure
