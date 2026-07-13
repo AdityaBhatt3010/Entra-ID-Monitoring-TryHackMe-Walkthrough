@@ -1,12 +1,11 @@
 # Entra ID Monitoring 🔐
 
-A step-by-step walkthrough of the **Entra ID Monitoring** room on TryHackMe, covering common identity attacks against Microsoft Entra ID and demonstrating how to detect them using **Splunk**.
+A step-by-step walkthrough of the **Entra ID Monitoring**, covering common identity attacks against Microsoft Entra ID and demonstrating how to detect them using **Splunk**.
 
 This repository documents the investigation process, explains the reasoning behind every SPL query, and maps each solution to the corresponding screenshots for easier understanding and verification.
 
 ## Lab Information
 
-* **Platform:** TryHackMe
 * **Room:** Entra ID Monitoring
 * **Difficulty:** Medium
 * **Focus Areas:**
@@ -400,6 +399,6 @@ Important permissions discussed:
 
 # Disclaimer
 
-This repository is created solely for educational purposes while studying the **TryHackMe Entra ID Monitoring** room. All exercises were performed inside the official TryHackMe lab environment.
+This repository is created solely for educational purposes while studying the **Entra ID Monitoring**. All exercises were performed inside the official lab environment.
 
 ---
