@@ -1,4 +1,4 @@
-# Entra ID Monitoring - TryHackMe Walkthrough 🔐
+# Entra ID Monitoring 🔐
 
 A step-by-step walkthrough of the **Entra ID Monitoring** room on TryHackMe, covering common identity attacks against Microsoft Entra ID and demonstrating how to detect them using **Splunk**.
 
