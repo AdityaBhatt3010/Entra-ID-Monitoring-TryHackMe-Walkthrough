@@ -140,7 +140,7 @@ index="task-2" sourcetype="azure:aad:signin" "status.errorCode"=0
 The successful logins belonged to:
 
 ```text
-amanda.costa@finegalo.thm
+amanda.costa@finegalo
 ```
 
 ![2](Entra/2.png)
@@ -171,7 +171,7 @@ index="task-3" sourcetype="azure:aad:signin"
 Risky user identified:
 
 ```text
-allan.senna@finegalo.thm
+allan.senna@finegalo
 ```
 
 ![3](Entra/3.png)
@@ -267,7 +267,7 @@ index="task-4" sourcetype="azure:aad:signin" (status.errorCode=50074 OR status.e
 Victim:
 
 ```text
-igor.bicalho@finegalo.thm
+igor.bicalho@finegalo
 ```
 
 Error Code:
@@ -329,7 +329,7 @@ index="task-5" sourcetype="azure:aad:audit" activityDisplayName="Add member to r
 New Account:
 
 ```text
-rafael.maciel@finegalo.thm
+rafael.maciel@finegalo
 ```
 
 Assigned Role:
